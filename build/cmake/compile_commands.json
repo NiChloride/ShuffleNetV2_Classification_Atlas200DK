@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/lang/AscendProjects/MyApp/build/cmake/src",
+  "command": "/usr/bin/c++   -I/home/lang/Ascend/ascend-toolkit/20.1.rc1/acllib_linux.aarch64/acllib/include -I/home/lang/AscendProjects/MyApp/src/../inc    -std=c++11 -o CMakeFiles/main.dir/utils.cpp.o -c /home/lang/AscendProjects/MyApp/src/utils.cpp",
+  "file": "/home/lang/AscendProjects/MyApp/src/utils.cpp"
+},
+{
+  "directory": "/home/lang/AscendProjects/MyApp/build/cmake/src",
+  "command": "/usr/bin/c++   -I/home/lang/Ascend/ascend-toolkit/20.1.rc1/acllib_linux.aarch64/acllib/include -I/home/lang/AscendProjects/MyApp/src/../inc    -std=c++11 -o CMakeFiles/main.dir/model_process.cpp.o -c /home/lang/AscendProjects/MyApp/src/model_process.cpp",
+  "file": "/home/lang/AscendProjects/MyApp/src/model_process.cpp"
+},
+{
+  "directory": "/home/lang/AscendProjects/MyApp/build/cmake/src",
+  "command": "/usr/bin/c++   -I/home/lang/Ascend/ascend-toolkit/20.1.rc1/acllib_linux.aarch64/acllib/include -I/home/lang/AscendProjects/MyApp/src/../inc    -std=c++11 -o CMakeFiles/main.dir/sample_process.cpp.o -c /home/lang/AscendProjects/MyApp/src/sample_process.cpp",
+  "file": "/home/lang/AscendProjects/MyApp/src/sample_process.cpp"
+},
+{
+  "directory": "/home/lang/AscendProjects/MyApp/build/cmake/src",
+  "command": "/usr/bin/c++   -I/home/lang/Ascend/ascend-toolkit/20.1.rc1/acllib_linux.aarch64/acllib/include -I/home/lang/AscendProjects/MyApp/src/../inc    -std=c++11 -o CMakeFiles/main.dir/main.cpp.o -c /home/lang/AscendProjects/MyApp/src/main.cpp",
+  "file": "/home/lang/AscendProjects/MyApp/src/main.cpp"
+}
+]

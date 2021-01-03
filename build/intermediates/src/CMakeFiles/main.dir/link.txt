@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++     CMakeFiles/main.dir/utils.cpp.o CMakeFiles/main.dir/model_process.cpp.o CMakeFiles/main.dir/sample_process.cpp.o CMakeFiles/main.dir/main.cpp.o  -o ../../../out/main  -L/home/lang/Ascend/ascend-toolkit/20.1.rc1/acllib_linux.aarch64/acllib/lib64/stub -lascendcl -lstdc++ 

@@ -1,0 +1,52 @@
+2020-11-25 11:12:08 [ INFO ] Build command: 
+2020-11-25 11:12:08 [ INFO ] export DDK_PATH=/home/lang/Ascend/ascend-toolkit/20.1.rc1/acllib_linux.aarch64 && export NPU_HOST_LIB=/home/lang/Ascend/ascend-toolkit/20.1.rc1/acllib_linux.aarch64/acllib/lib64/stub && export LANG="C" && cd /home/lang/AscendProjects/MyApp/build/intermediates && rm -rf * && cmake /home/lang/AscendProjects/MyApp -DCMAKE_SKIP_RPATH=TRUE -Dtarget= -DCMAKE_CXX_COMPILER=aarch64-linux-gnu-g++ && make && echo MyApp build successfully.
+2020-11-25 11:12:08 [ INFO ] -- The C compiler identification is GNU 7.5.0
+2020-11-25 11:12:08 [ INFO ] -- The CXX compiler identification is GNU 7.5.0
+2020-11-25 11:12:08 [ INFO ] -- Check for working C compiler: /usr/bin/cc
+2020-11-25 11:12:08 [ INFO ] -- Check for working C compiler: /usr/bin/cc -- works
+2020-11-25 11:12:08 [ INFO ] -- Detecting C compiler ABI info
+2020-11-25 11:12:08 [ INFO ] -- Detecting C compiler ABI info - done
+2020-11-25 11:12:08 [ INFO ] -- Detecting C compile features
+2020-11-25 11:12:08 [ INFO ] -- Detecting C compile features - done
+2020-11-25 11:12:08 [ INFO ] -- Check for working CXX compiler: /usr/bin/aarch64-linux-gnu-g++
+2020-11-25 11:12:08 [ INFO ] -- Check for working CXX compiler: /usr/bin/aarch64-linux-gnu-g++ -- works
+2020-11-25 11:12:08 [ INFO ] -- Detecting CXX compiler ABI info
+2020-11-25 11:12:08 [ INFO ] -- Detecting CXX compiler ABI info - done
+2020-11-25 11:12:08 [ INFO ] -- Detecting CXX compile features
+2020-11-25 11:12:09 [ INFO ] -- Detecting CXX compile features - done
+2020-11-25 11:12:09 [ INFO ] -- env INC_PATH: /home/lang/Ascend/ascend-toolkit/20.1.rc1/acllib_linux.aarch64
+2020-11-25 11:12:09 [ INFO ] -- env LIB_PATH: /home/lang/Ascend/ascend-toolkit/20.1.rc1/acllib_linux.aarch64/acllib/lib64/stub
+2020-11-25 11:12:09 [ INFO ] -- Configuring done
+2020-11-25 11:12:09 [ INFO ] -- Generating done
+2020-11-25 11:12:09 [ INFO ] -- Build files have been written to: /home/lang/AscendProjects/MyApp/build/intermediates
+2020-11-25 11:12:09 [ INFO ] Scanning dependencies of target main
+2020-11-25 11:12:09 [ INFO ] [ 20%] Building CXX object src/CMakeFiles/main.dir/utils.cpp.o
+2020-11-25 11:12:09 [ INFO ] [ 40%] Building CXX object src/CMakeFiles/main.dir/model_process.cpp.o
+2020-11-25 11:12:09 [ INFO ] [ 60%] Building CXX object src/CMakeFiles/main.dir/sample_process.cpp.o
+2020-11-25 11:12:09 [ INFO ] [ 80%] Building CXX object src/CMakeFiles/main.dir/main.cpp.o
+2020-11-25 11:12:10 [ INFO ] [100%] Linking CXX executable ../../../out/main
+2020-11-25 11:12:10 [ INFO ] [100%] Built target main
+2020-11-25 11:12:10 [ INFO ] MyApp build successfully.
+2020-11-25 11:22:04 [ INFO ] Build command: 
+2020-11-25 11:22:04 [ INFO ] export DDK_PATH=/home/lang/Ascend/ascend-toolkit/20.1.rc1/acllib_linux.aarch64 && export NPU_HOST_LIB=/home/lang/Ascend/ascend-toolkit/20.1.rc1/acllib_linux.aarch64/acllib/lib64/stub && export LANG="C" && cd /home/lang/AscendProjects/MyApp/build/intermediates && cmake /home/lang/AscendProjects/MyApp -DCMAKE_SKIP_RPATH=TRUE -Dtarget= -DCMAKE_CXX_COMPILER=aarch64-linux-gnu-g++ && make clean && make && echo MyApp build successfully.
+2020-11-25 11:22:04 [ INFO ] -- env INC_PATH: /home/lang/Ascend/ascend-toolkit/20.1.rc1/acllib_linux.aarch64
+2020-11-25 11:22:04 [ INFO ] -- env LIB_PATH: /home/lang/Ascend/ascend-toolkit/20.1.rc1/acllib_linux.aarch64/acllib/lib64/stub
+2020-11-25 11:22:04 [ INFO ] -- Configuring done
+2020-11-25 11:22:04 [ INFO ] -- Generating done
+2020-11-25 11:22:04 [ INFO ] -- Build files have been written to: /home/lang/AscendProjects/MyApp/build/intermediates
+2020-11-25 11:22:04 [ INFO ] [ 20%] Building CXX object src/CMakeFiles/main.dir/utils.cpp.o
+2020-11-25 11:22:05 [ INFO ] [ 40%] Building CXX object src/CMakeFiles/main.dir/model_process.cpp.o
+2020-11-25 11:22:05 [ INFO ] [ 60%] Building CXX object src/CMakeFiles/main.dir/sample_process.cpp.o
+2020-11-25 11:22:05 [ INFO ] [ 80%] Building CXX object src/CMakeFiles/main.dir/main.cpp.o
+2020-11-25 11:22:05 [ INFO ] [100%] Linking CXX executable ../../../out/main
+2020-11-25 11:22:05 [ INFO ] [100%] Built target main
+2020-11-25 11:22:05 [ INFO ] MyApp build successfully.
+2020-11-25 11:22:13 [ INFO ] Build command: 
+2020-11-25 11:22:13 [ INFO ] export DDK_PATH=/home/lang/Ascend/ascend-toolkit/20.1.rc1/acllib_linux.aarch64 && export NPU_HOST_LIB=/home/lang/Ascend/ascend-toolkit/20.1.rc1/acllib_linux.aarch64/acllib/lib64/stub && export LANG="C" && cd /home/lang/AscendProjects/MyApp/build/intermediates && cmake /home/lang/AscendProjects/MyApp -DCMAKE_SKIP_RPATH=TRUE -Dtarget= -DCMAKE_CXX_COMPILER=aarch64-linux-gnu-g++ && make && echo MyApp build successfully.
+2020-11-25 11:22:13 [ INFO ] -- env INC_PATH: /home/lang/Ascend/ascend-toolkit/20.1.rc1/acllib_linux.aarch64
+2020-11-25 11:22:13 [ INFO ] -- env LIB_PATH: /home/lang/Ascend/ascend-toolkit/20.1.rc1/acllib_linux.aarch64/acllib/lib64/stub
+2020-11-25 11:22:13 [ INFO ] -- Configuring done
+2020-11-25 11:22:13 [ INFO ] -- Generating done
+2020-11-25 11:22:13 [ INFO ] -- Build files have been written to: /home/lang/AscendProjects/MyApp/build/intermediates
+2020-11-25 11:22:13 [ INFO ] [100%] Built target main
+2020-11-25 11:22:13 [ INFO ] MyApp build successfully.

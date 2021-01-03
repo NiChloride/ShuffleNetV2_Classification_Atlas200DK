@@ -1,0 +1,13 @@
+/home/lang/AscendProjects/MyApp/build/cmake/CMakeFiles/install/strip.dir
+/home/lang/AscendProjects/MyApp/build/cmake/CMakeFiles/install.dir
+/home/lang/AscendProjects/MyApp/build/cmake/CMakeFiles/install/local.dir
+/home/lang/AscendProjects/MyApp/build/cmake/CMakeFiles/list_install_components.dir
+/home/lang/AscendProjects/MyApp/build/cmake/CMakeFiles/edit_cache.dir
+/home/lang/AscendProjects/MyApp/build/cmake/CMakeFiles/rebuild_cache.dir
+/home/lang/AscendProjects/MyApp/build/cmake/src/CMakeFiles/install/strip.dir
+/home/lang/AscendProjects/MyApp/build/cmake/src/CMakeFiles/edit_cache.dir
+/home/lang/AscendProjects/MyApp/build/cmake/src/CMakeFiles/main.dir
+/home/lang/AscendProjects/MyApp/build/cmake/src/CMakeFiles/rebuild_cache.dir
+/home/lang/AscendProjects/MyApp/build/cmake/src/CMakeFiles/list_install_components.dir
+/home/lang/AscendProjects/MyApp/build/cmake/src/CMakeFiles/install/local.dir
+/home/lang/AscendProjects/MyApp/build/cmake/src/CMakeFiles/install.dir
