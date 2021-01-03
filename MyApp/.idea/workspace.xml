@@ -16,7 +16,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/modelzoo/resnet50/device/resnet50.om" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="settings.editor.selected.configurable" value="system.adk" />
   </component>
   <component name="RunManager">
     <configuration name="MyApp" type="Ascend App Configuration Type" factoryName="Ascend App" hostip="192.168.1.2" commandArguments="" debugPort="">
@@ -48,5 +48,13 @@
       <screen x="67" y="27" width="1853" height="945" />
     </state>
     <state width="1137" height="400" key="GridCell.Tab.0.right/67.27.1853.945@67.27.1853.945" timestamp="1608515722227" />
+    <state x="866" y="215" key="SettingsEditor" timestamp="1609641069282">
+      <screen x="67" y="27" width="1853" height="945" />
+    </state>
+    <state x="866" y="215" key="SettingsEditor/67.27.1853.945@67.27.1853.945" timestamp="1609641069282" />
+    <state x="157" y="209" width="957" height="751" key="new project wizard" timestamp="1609640648885">
+      <screen x="67" y="27" width="1853" height="945" />
+    </state>
+    <state x="157" y="209" width="957" height="751" key="new project wizard/67.27.1853.945@67.27.1853.945" timestamp="1609640648885" />
   </component>
 </project>
